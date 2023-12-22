@@ -10,7 +10,6 @@ import men_banner from './components/Assets/banner_mens.png';
 import women_banner from './components/Assets/banner_women.png';
 import kids_banner from './components/Assets/banner_kids.png';
 import Footer from './components/Footer/Footer';
-import ProductDisplay from './components/ProductDisplay/ProductDisplay';
 
 
 function App() {
