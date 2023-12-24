@@ -27,6 +27,7 @@ function App() {
           </Route>
           <Route path='/card' element={<Card />} />
           <Route path='/login' element={<Login />} />
+          <Route path='/play'/>
         </Routes>
       </BrowserRouter>
       <Footer />
